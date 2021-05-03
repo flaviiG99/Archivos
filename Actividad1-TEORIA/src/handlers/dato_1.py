@@ -3,7 +3,7 @@ import json
 from collections import Counter
 def start():
 	"""abro archivo de datos y creo el archivo donde guardar las palabras"""
-	arch=open('C:\\Users\\Alumno\\Archivos\\Actividad1-TEORIA\\salud.csv','r',encoding='UTF-8')
+	arch=open('salud.csv','r',encoding='UTF-8')
 	csv_reader=csv.reader(arch,delimiter=',')
 	arch_2=open('Provincias.txt','w+')
 	next(csv_reader)
@@ -17,6 +17,6 @@ def start():
 	cont=dict(Counter(contador).most_common(15))
 	for i in cont:
 		datos.append(i)
-	json.dump(datos,arch_2)
+	json.dump(datos,arch_2,indent=4)
 	arch.close()
 	arch_2.close()

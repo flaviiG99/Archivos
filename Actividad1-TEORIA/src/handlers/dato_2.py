@@ -19,6 +19,6 @@ def start():
 	datos=[]
 	for i in cont:
 		datos.append(i)
-	json.dump(datos,archivo_2)
+	json.dump(datos,archivo_2,indent=4)
 	archivo.close()
 	archivo_2.close()
