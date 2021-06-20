@@ -1,0 +1,22 @@
+[
+    "MERCEDES-BENZ",
+    "CHEVROLET",
+    "BMW",
+    "RENAULT",
+    "HYUNDAI",
+    "HONDA",
+    "FIAT",
+    "MINI",
+    "FORD",
+    "TOYOTA",
+    "VOLKSWAGEN",
+    "PEUGEOT",
+    "KIA",
+    "NISSAN",
+    "CHANGAN",
+    "JEEP",
+    "CITRO\u00cbN",
+    "LIFAN",
+    "SUZUKI",
+    "AUDI"
+]
