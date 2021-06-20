@@ -1,0 +1,285 @@
+Tiempo,Partida,Cantidad total de palabras a adivinar,Nombre de evento,Usuario-nick,Usuario-género,Usuario-edad,Estado,Palabra,Nivel
+1623988984.952253,0e8e907a7cc4401db77bc4654d70c6a2,4,inicio_partida,a,Otro,21, , ,Nivel 1
+1623988984.952253,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,-,Nivel 1
+1623988985.9856555,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,-,Nivel 1
+1623988986.3906565,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,Heroine's Quest: The Herald of Ragnarok,Nivel 1
+1623988987.4240587,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,-,Nivel 1
+1623988988.3282607,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,ok,Heroine's Quest: The Herald of Ragnarok,Nivel 1
+1623988989.3466623,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,-,Nivel 1
+1623988989.4265628,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,The Banner Saga: Factions,Nivel 1
+1623988990.413765,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,Project CARS - Pagani Edition,Nivel 1
+1623988994.6371734,0e8e907a7cc4401db77bc4654d70c6a2,4,intento,a,Otro,21,Error,Project CARS - Pagani Edition,Nivel 1
+1623988994.6371734,0e8e907a7cc4401db77bc4654d70c6a2,4,fin,a,Otro,21,timeout,-,Nivel 1
+1623989223.1745708,f0d72fb2bf104a608467125f8315e17e,4,inicio_partida,a,Otro,21, , ,Nivel 1
+1623989223.1745708,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,Error,-,Nivel 1
+1623989223.7255716,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,Error,MANDAGON,Nivel 1
+1623989224.3620732,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,ok,MANDAGON,Nivel 1
+1623989225.2843747,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,Error,The Moon Night,Nivel 1
+1623989226.0381763,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,ok,The Moon Night,Nivel 1
+1623989226.9941783,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,Error,Tank Destroyer,Nivel 1
+1623989228.0225804,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,Error,-,Nivel 1
+1623989228.2715812,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,ok,Tank Destroyer,Nivel 1
+1623989229.1345828,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,Error,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",Nivel 1
+1623989229.9501843,f0d72fb2bf104a608467125f8315e17e,4,intento,a,Otro,21,ok,"Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",Nivel 1
+1623989229.9501843,f0d72fb2bf104a608467125f8315e17e,4,fin,a,Otro,21,finalizada,-,Nivel 1
+1623989449.919058,db2eba5424884a49a6bd0abb30e41897,4,inicio_partida,juan,Masculino,2, , ,Nivel 1
+1623989449.919058,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989450.8095603,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,Darkstone,Nivel 1
+1623989451.8585625,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989452.3883636,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,You Have to Win the Game,Nivel 1
+1623989456.4863725,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,Darkstone,Nivel 1
+1623989457.158474,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,ok,Darkstone,Nivel 1
+1623989458.1918764,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989458.2230763,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,Duelyst,Nivel 1
+1623989458.6904774,db2eba5424884a49a6bd0abb30e41897,4,intento,juan,Masculino,2,Error,You Have to Win the Game,Nivel 1
+1623989461.8661845,db2eba5424884a49a6bd0abb30e41897,4,fin,juan,Masculino,2,timeout,-,Nivel 1
+1623989493.7854528,b078e1d363ae40f7ba0821402119ffa6,6,inicio_partida,pepe,Masculino,4, , ,Nivel 2
+1623989493.790453,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989494.801555,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989495.8325572,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989496.86816,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989497.902462,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989498.932964,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989499.9583662,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989500.9792683,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989501.4778693,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,Project CARS - Pagani Edition,Nivel 2
+1623989502.2616715,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,The Secret of Tremendous Corporation,Nivel 2
+1623989506.0289798,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,FINAL FANTASY XIV Online,Nivel 2
+1623989507.062382,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,-,Nivel 2
+1623989507.155982,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,Project CARS - Pagani Edition,Nivel 2
+1623989510.9725907,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,Project CARS - Pagani Edition,Nivel 2
+1623989511.5179918,b078e1d363ae40f7ba0821402119ffa6,6,intento,pepe,Masculino,4,Error,The Secret of Tremendous Corporation,Nivel 2
+1623989514.6162984,b078e1d363ae40f7ba0821402119ffa6,6,fin,pepe,Masculino,4,timeout,-,Nivel 2
+1623989548.2780704,85b81838e4af4e7782177cde361ba127,8,inicio_partida,maria,Femenino,0, , ,Nivel 3
+1623989548.2780704,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989549.3258724,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989550.373675,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989551.4077773,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989552.4530792,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989553.4921815,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989554.5187836,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989555.5553858,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989556.5792885,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989557.661191,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989558.6924927,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989559.7252948,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989560.7569973,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989561.7976,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989562.8235023,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989563.8544047,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989564.8884065,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989565.903809,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989566.9347112,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989567.9687133,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989568.9996154,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989570.0199177,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989571.05082,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989572.0842226,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989573.1151245,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989574.146027,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989575.179429,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989576.2103314,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989577.2275338,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989578.2740362,85b81838e4af4e7782177cde361ba127,8,intento,maria,Femenino,0,Error,-,Nivel 3
+1623989578.2740362,85b81838e4af4e7782177cde361ba127,8,fin,maria,Femenino,0,timeout,-,Nivel 3
+1623989615.4988217,ab6361ae8a76423aa6ae98b2b7b21b07,4,inicio_partida,juan,Masculino,2, , ,Nivel 1
+1623989615.5013218,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989616.5154238,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989617.5488262,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989617.8296266,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,Garry's Mod,Nivel 1
+1623989618.8636286,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,Screeps,Nivel 1
+1623989622.5405376,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,INTERSHELTER,Nivel 1
+1623989623.58704,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989623.7268403,ab6361ae8a76423aa6ae98b2b7b21b07,4,intento,juan,Masculino,2,Error,The Moon Night,Nivel 1
+1623989626.8251467,ab6361ae8a76423aa6ae98b2b7b21b07,4,fin,juan,Masculino,2,timeout,-,Nivel 1
+1623989747.6049068,37408b0c6d0c4b0095b401e97b3ef0f6,8,inicio_partida,pepe,Masculino,4, , ,Nivel 3
+1623989747.6049068,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989748.653909,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989748.98341,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,The Slug,Nivel 3
+1623989750.0274122,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989750.4686131,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,ok,The Slug,Nivel 3
+1623989751.4995153,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989751.9070163,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Arma 3,Nivel 3
+1623989752.9223187,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989753.2986195,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,ok,Arma 3,Nivel 3
+1623989754.3451216,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989754.516722,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Project CARS - Pagani Edition,Nivel 3
+1623989755.5657244,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989756.1735256,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Iron Snout,Nivel 3
+1623989760.053134,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Project CARS - Pagani Edition,Nivel 3
+1623989761.087136,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989762.024438,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,ok,Project CARS - Pagani Edition,Nivel 3
+1623989763.0572402,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989763.2756407,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Shonen Idle Z,Nivel 3
+1623989764.306543,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989764.651644,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Heroine's Quest: The Herald of Ragnarok,Nivel 3
+1623989768.326552,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Vulture for NetHack,Nivel 3
+1623989769.362454,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989769.7649548,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Heroine's Quest: The Herald of Ragnarok,Nivel 3
+1623989773.423663,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Shonen Idle Z,Nivel 3
+1623989774.454565,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,-,Nivel 3
+1623989775.2851672,37408b0c6d0c4b0095b401e97b3ef0f6,8,intento,pepe,Masculino,4,Error,Vulture for NetHack,Nivel 3
+1623989778.3828738,37408b0c6d0c4b0095b401e97b3ef0f6,8,fin,pepe,Masculino,4,timeout,-,Nivel 3
+1623989815.8714552,8358a3d7c6b449c6ab61866f83eabbca,4,inicio_partida,jose,Otro,1, , ,Nivel 1
+1623989815.8714552,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,-,Nivel 1
+1623989816.7794573,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,Serena,Nivel 1
+1623989817.7479596,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,ok,Serena,Nivel 1
+1623989818.7632618,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,The Desolate Hope,Nivel 1
+1623989819.6980639,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,ok,The Desolate Hope,Nivel 1
+1623989820.737066,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,-,Nivel 1
+1623989821.1270666,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,PLAYERUNKNOWN'S BATTLEGROUNDS,Nivel 1
+1623989822.1554687,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,-,Nivel 1
+1623989822.2353692,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,ok,PLAYERUNKNOWN'S BATTLEGROUNDS,Nivel 1
+1623989823.2662716,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,-,Nivel 1
+1623989823.4378717,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,Error,Heroine's Quest: The Herald of Ragnarok,Nivel 1
+1623989824.4556742,8358a3d7c6b449c6ab61866f83eabbca,4,intento,jose,Otro,1,ok,Heroine's Quest: The Herald of Ragnarok,Nivel 1
+1623989824.4556742,8358a3d7c6b449c6ab61866f83eabbca,4,fin,jose,Otro,1,finalizada,-,Nivel 1
+1623989846.8048224,9a96f30c586746d2890417046d87cb1e,4,inicio_partida,a,Otro,21, , ,Nivel 1
+1623989846.8048224,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,Error,-,Nivel 1
+1623989847.7421246,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,Error,Black Desert Online,Nivel 1
+1623989848.7293265,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,ok,Black Desert Online,Nivel 1
+1623989849.7003286,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,Error,PRICE,Nivel 1
+1623989850.733731,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,Error,-,Nivel 1
+1623989850.764931,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,ok,PRICE,Nivel 1
+1623989851.6379328,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,Error,Aerofly FS 2 Flight Simulator,Nivel 1
+1623989852.4685347,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,ok,Aerofly FS 2 Flight Simulator,Nivel 1
+1623989853.499437,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,Error,Heroine's Quest: The Herald of Ragnarok,Nivel 1
+1623989854.499139,9a96f30c586746d2890417046d87cb1e,4,intento,a,Otro,21,ok,Heroine's Quest: The Herald of Ragnarok,Nivel 1
+1623989854.499139,9a96f30c586746d2890417046d87cb1e,4,fin,a,Otro,21,finalizada,-,Nivel 1
+1623989881.8857014,bf8a6b4372284e8aa97bb742ffa1c18a,4,inicio_partida,juan,Masculino,2, , ,Nivel 1
+1623989881.8857014,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989882.9241037,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989883.7366056,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,Shonen Idle Z,Nivel 1
+1623989884.4355073,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,ok,Shonen Idle Z,Nivel 1
+1623989885.297909,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,X-Plane 11,Nivel 1
+1623989886.328811,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,-,Nivel 1
+1623989886.4848115,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,ok,X-Plane 11,Nivel 1
+1623989887.4084136,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,Serena,Nivel 1
+1623989888.151615,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,ok,Serena,Nivel 1
+1623989889.0184171,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,Error,Vulture for NetHack,Nivel 1
+1623989889.7960196,bf8a6b4372284e8aa97bb742ffa1c18a,4,intento,juan,Masculino,2,ok,Vulture for NetHack,Nivel 1
+1623989889.7960196,bf8a6b4372284e8aa97bb742ffa1c18a,4,fin,juan,Masculino,2,finalizada,-,Nivel 1
+1623989905.037653,03074815a5c745e393cc0a5783dd5794,6,inicio_partida,juan,Masculino,2, , ,Nivel 2
+1623989905.037653,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989905.8888547,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,X-Plane 11,Nivel 2
+1623989906.8991568,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,ok,X-Plane 11,Nivel 2
+1623989907.833359,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,Wordlase,Nivel 2
+1623989908.5584605,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,ok,Wordlase,Nivel 2
+1623989909.5918627,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989909.6230628,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,Boundless,Nivel 2
+1623989910.653965,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989910.8430655,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,ARK: Survival Evolved,Nivel 2
+1623989914.004972,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,ARK: Survival Evolved,Nivel 2
+1623989915.0333743,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989915.5687752,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,ok,ARK: Survival Evolved,Nivel 2
+1623989916.5996773,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989916.6464775,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,Project CARS - Pagani Edition,Nivel 2
+1623989917.6773798,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989918.708282,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989919.7416842,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989920.6820862,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,The Desolate Hope,Nivel 2
+1623989924.3413942,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,Boundless,Nivel 2
+1623989925.3716965,03074815a5c745e393cc0a5783dd5794,6,intento,juan,Masculino,2,Error,-,Nivel 2
+1623989925.3716965,03074815a5c745e393cc0a5783dd5794,6,fin,juan,Masculino,2,timeout,-,Nivel 2
+1623989947.6295435,a5afb8efb7004747aa6594c2f6662124,4,inicio_partida,pepe,Masculino,4, , ,Nivel 1
+1623989947.6295435,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989948.6448455,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989949.660148,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989950.67545,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989951.6932523,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989952.7116544,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989953.7425566,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989954.7740588,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989955.804961,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989956.8389633,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989957.8698652,a5afb8efb7004747aa6594c2f6662124,4,intento,pepe,Masculino,4,Error,-,Nivel 1
+1623989957.8698652,a5afb8efb7004747aa6594c2f6662124,4,fin,pepe,Masculino,4,timeout,-,Nivel 1
+1623990002.779563,2a061711a2c5426086570e6e61628976,4,inicio_partida,pedro,Masculino,3, , ,Nivel 1
+1623990002.779563,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990003.8104653,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990004.8444672,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990005.8753695,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990006.9087718,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990007.9396741,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990008.9705763,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990010.0039787,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990011.0367813,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990012.0757833,2a061711a2c5426086570e6e61628976,4,intento,pedro,Masculino,3,Error,-,Nivel 1
+1623990012.0757833,2a061711a2c5426086570e6e61628976,4,fin,pedro,Masculino,3,timeout,-,Nivel 1
+1623990044.8373547,7be4fbc3074541a3b00db55fd6456516,6,inicio_partida,fran,Femenino,6, , ,Nivel 2
+1623990044.8373547,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990045.8869567,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990046.917859,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990047.9799614,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990048.9977636,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990050.0155659,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990051.0308683,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990052.0492702,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990053.0645723,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990054.0829744,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990055.0982766,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990056.1291788,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990057.1444812,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990058.1778834,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990059.2118855,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990060.2271876,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990061.25809,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990062.2889922,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990063.3223946,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990064.353297,7be4fbc3074541a3b00db55fd6456516,6,intento,fran,Femenino,6,Error,-,Nivel 2
+1623990064.353297,7be4fbc3074541a3b00db55fd6456516,6,fin,fran,Femenino,6,timeout,-,Nivel 2
+1623990097.184471,5ce489c149f5476b9a03c5288ff48956,6,inicio_partida,maria,Femenino,0, , ,Nivel 2
+1623990097.184471,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990098.218473,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990099.2487755,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990100.2823775,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990101.31578,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990102.349782,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990103.3931842,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990104.4290867,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990105.4593892,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990106.493391,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990107.5361938,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990108.569596,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990109.6023986,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990110.633301,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990111.666703,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990112.7007053,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990113.7291074,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990114.76191,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990115.800312,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990116.8256145,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990117.8596165,5ce489c149f5476b9a03c5288ff48956,6,intento,maria,Femenino,0,Error,-,Nivel 2
+1623990117.8596165,5ce489c149f5476b9a03c5288ff48956,6,fin,maria,Femenino,0,timeout,-,Nivel 2
+1623990164.1737146,4fbf92095ede41869aa9643608729985,8,inicio_partida,fifi,Otro,80, , ,Nivel 3
+1623990164.1737146,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990165.1878166,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990166.2137184,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990167.2297206,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990168.2547228,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990169.273125,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990170.306527,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990171.3368292,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990172.3677316,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990173.4042337,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990174.4332356,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990175.464738,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990176.49564,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990177.5296419,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990178.5605443,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990179.5945463,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990180.6279488,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990181.658851,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990182.690353,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990183.7368553,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990184.7708573,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990185.8017595,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990186.8357615,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990187.866664,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990188.9000664,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990189.9465685,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990190.9643707,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990191.982173,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990193.013075,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990194.0314775,4fbf92095ede41869aa9643608729985,8,intento,fifi,Otro,80,Error,-,Nivel 3
+1623990194.0314775,4fbf92095ede41869aa9643608729985,8,fin,fifi,Otro,80,timeout,-,Nivel 3
